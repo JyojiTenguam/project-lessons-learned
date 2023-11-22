@@ -1,81 +1,78 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
 
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 header {
-    position: fixed;
-    top: 0;
+  position: fixed;
+  top: 0;
 }
 
-.meuNome,
-.descricao {
-    font-family: 'Roboto Slab', serif;
+.meuNome .descricao {
+  font-family: Roboto Slab, serif;
 }
 
 em {
-    color: blueviolet;
+  color: blueviolet;
 }
 
 .sobre-aprender {
-    display: flex;
+  display: flex;
 }
 
 .lado-esquerdo {
-    border: 3px solid rgb(0, 0, 0);
-    display: flex;
-    padding: 5px;
-    margin: 5px;
-    text-align: left;
-    font-size: 25px;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 5px;
+  text-align: left;
+  font-size: 25px;
 }
 
 .lado-direito {
-    border: 3px solid rgb(0, 0, 0);
-    display: flex;
-    margin: 5px;
-    font-size: 25px;
+  border: 3px solid black;
+  display: flex;
+  margin: 5px;
+  font-size: 25px;
 }
 
 .lado-direito h2 {
-    background-color: rgb(127, 255, 212);
-    padding: 48px;
-    margin: auto;
+  background-color: aquamarine;
+  padding: 48px;
+  margin: auto;
 }
 
 .lado-direito p {
-    text-align: left;
+  text-align: left;
 }
 
 #licoes_aprendidas {
-    margin: 10px;
+  margin: 10px;
 }
 
 #licoes_a_aprender {
-    margin: 10px;
+  margin: 10px;
 }
 
-#licoes_aprendidas,
-#licoes_a_aprender {
-    border: 3px solid black;
-    width: 400px;
-    padding: 20px 60px;
-    line-height: 150%;
+#licoes_aprendidas #licoes_a_aprender {
+  border: 3px solid black;
+  width: 400px;
+  padding: 20px 60px;
+  line-height: 150%;
 }
 
 table {
-    width: 50%;
-    border-collapse: collapse;
-    margin-top: 20px;
+  width: 50%;
+  border-collapse: collapse;
+  margin-top: 20px;
 }
 
-th,td {
-    border: 1px solid rgb(221, 221, 221);
-    padding: 8px;
-    text-align: left;
+th td {
+  border: 1px solid rgb(221, 221, 221);
+  padding: 8px;
+  text-align: left;
 }
 
 th {
-    background-color: rgb(242, 242, 242);
+  background-color: rgb(242, 242, 242);
 }
