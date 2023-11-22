@@ -34,7 +34,7 @@ em {
     margin: 5px;
     text-align: left;
     font-size: 25px;
-    line-height: 2px;
+    letter-spacing: 2px;
 }
 
 .lado-direito {
@@ -42,7 +42,7 @@ em {
     display: flex;
     margin: 5px;
     font-size: 25px;
-    line-height: 2px;
+    letter-spacing: 2px;
 }
 
 .lado-direito h2 {
@@ -67,4 +67,20 @@ em {
     border: 3px solid black;
     width: 400px;
     padding: 20px 60px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
 }
