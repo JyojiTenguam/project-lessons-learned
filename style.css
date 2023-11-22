@@ -9,10 +9,6 @@ header {
     top: 0;
 }
 
-.id {
-    position: top;
-}
-
 .meuNome,
 .descricao {
     font-family: 'Roboto Slab', serif;
@@ -62,7 +58,7 @@ em {
 
 #licoes_aprendidas,
 #licoes_a_aprender {
-    border: 3px solid rgb(0, 0, 0);
+    border: 3px solid black;
     width: 400px;
     padding: 20px 60px;
     line-height: 150%;
@@ -74,8 +70,7 @@ table {
     margin-top: 20px;
 }
 
-th,
-td {
+th,td {
     border: 1px solid rgb(221, 221, 221);
     padding: 8px;
     text-align: left;
