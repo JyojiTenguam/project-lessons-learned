@@ -9,7 +9,6 @@ header {
     
 }
 
-
 .id { 
     position: top;
 }
@@ -75,7 +74,7 @@ table {
 }
 
 th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #dddddd;
     padding: 8px;
     text-align: left;
 }
