@@ -16,46 +16,28 @@ header {
 .meuNome,
 .descricao {
     font-family: 'Roboto Slab', serif;
-
-
 }
 
 em {
     color: blueviolet;
 }
 
-.c++ {
+.lado-esquerdo {
+    border: 3px solid black;
+    position: left;
+}
+
+#licoes_a_aprender {
+    margin: 10px;
+}
+
+.lado-esquerdo{
     font-size: 20px;
+    line-height: 30px;
 }
 
-.cakephp {
-    font-size: 19px;
-}
-
-.css-3 {
-    font-size: 18px;
-}
-
-.html-5 {
-    font-size: 17px;
-}
-
-.java {
-    font-size: 16px;
-}
-
-.javascript {
-    font-size: 15px;
-}
-
-.metoAgil {
-    font-size: 14px;
-}
-
-.php {
-    font-size: 13px;
-}
-
-.sql {
-    font-size: 12px;
+#licoes_aprendidas, #licoes_a_aprender {
+    border: 3px solid black;
+    width: 400px;
+    padding: 20px 60px;
 }
