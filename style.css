@@ -34,7 +34,7 @@ em {
     margin: 5px;
     text-align: left;
     font-size: 25px;
-    letter-spacing: 2px;
+    line-height: 2px;
 }
 
 .lado-direito {
@@ -42,7 +42,7 @@ em {
     display: flex;
     margin: 5px;
     font-size: 25px;
-    letter-spacing: 2px;
+    line-height: 2px;
 }
 
 .lado-direito h2 {
