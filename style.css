@@ -9,6 +9,7 @@ header {
     
 }
 
+
 .id { 
     position: top;
 }
@@ -22,18 +23,44 @@ em {
     color: blueviolet;
 }
 
+.sobre-aprender {
+    display: flex;
+}
+
 .lado-esquerdo {
     border: 3px solid black;
-    position: left;
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+    font-size: 25px;
+    line-height: 2px;
+}
+
+.lado-direito {
+    border: 3px solid black;
+    display: flex;
+    margin: 5px;
+    font-size: 25px;
+    line-height: 2px;
+}
+
+.lado-direito h2 {
+    background-color: aquamarine;
+    padding: 48px;
+    margin: auto;
+}
+
+.lado-direito p {
+    text-align: left;
+}
+
+#licoes_aprendidas {
+    margin: 10px;
 }
 
 #licoes_a_aprender {
     margin: 10px;
-}
-
-.lado-esquerdo{
-    font-size: 20px;
-    line-height: 30px;
 }
 
 #licoes_aprendidas, #licoes_a_aprender {
