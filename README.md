@@ -21,3 +21,7 @@ Este projeto foi desenvolvido como parte do curso da Trybe, com o objetivo de co
     ```
     cd ColorFlipper
     ```
+3. Instale as dependências do projeto:
+    ```sh
+    npm install
+    ```
