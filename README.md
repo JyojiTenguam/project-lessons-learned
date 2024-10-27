@@ -25,3 +25,4 @@ Este projeto foi desenvolvido como parte do curso da Trybe, com o objetivo de co
     ```sh
     npm install
     ```
+4. Abra o arquivo index.html em seu navegador para visualizar o projeto.
