@@ -32,13 +32,13 @@ A página desenvolvida apresenta as seguintes características:
 1. Clone este repositório para o seu computador:
 
     ```
-    git@github.com:JyojiTenguam/ColorFlipper.git
+    git@github.com:JyojiTenguam/project-lessons-learned.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```
-    cd ColorFlipper
+   cd project-lessons-learned
     ```
 3. Instale as dependências do projeto:
     ```sh
