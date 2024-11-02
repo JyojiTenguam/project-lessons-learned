@@ -36,13 +36,13 @@ A página desenvolvida apresenta as seguintes características:
    - Após fazer o fork, clone o repositório para o seu computador:
 
     ```bash
-    git clone git@github.com:seu-usuario/trybetunes.git
+    git clone git@github.com:seu-usuario/project-lessons-learned.git
     ```
 
 3. **Navegue até o Diretório do Projeto**:
 
     ```bash
-    cd trybetunes
+    cd project-lessons-learned
     ```
 
 4. **Instale as Dependências**:
