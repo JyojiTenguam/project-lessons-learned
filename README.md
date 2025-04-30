@@ -1,56 +1,57 @@
-# Project Lessons Learned
+# 📘 Lessons Learned
 
-Este projeto foi desenvolvido como parte do curso da Trybe, com o objetivo de compartilhar as lições que aprendi ao longo das últimas seções. A seguir, você encontrará informações sobre como configurar e executar o projeto, bem como detalhes sobre as funcionalidades implementadas.
+Projeto desenvolvido como parte do curso da Trybe, com o objetivo de aplicar os conhecimentos adquiridos em HTML, CSS e JavaScript na construção de uma página web estática que apresenta as lições aprendidas durante o curso.
 
-## Tecnologias Utilizadas
+## ✨ Demonstração
 
-- JavaScript
-- HTML
-- CSS
+> A aplicação consiste em uma página web estática que exibe informações sobre as lições aprendidas, utilizando uma estrutura semântica e estilização responsiva.
 
-## Funcionalidades do Projeto
-A página desenvolvida apresenta as seguintes características:
+## 📋 Índice
 
-- Cor de fundo: A cor de fundo da página é rgb(253, 251, 251).
-- Barra Superior: Contém um título fixo no topo da página.
-- Imagem de Perfil: Inclui uma foto de perfil.
-- Listas: Apresenta duas listas, uma com as lições já aprendidas e outra com os tópicos a serem estudados.
-- Rodapé: Um rodapé informativo foi adicionado.
-- Links Externos: Links que abrem em novas abas.
-- Artigo sobre Aprendizado: Um artigo que detalha minha jornada de aprendizado com mais de 300 caracteres.
-- Descrição Pessoal: Uma breve descrição sobre mim em uma tag <aside>.
-- Validação Semântica: O layout foi validado usando CodeSniffer para garantir boa semântica.
+- [Sobre](#-sobre)
+- [Habilidades desenvolvidas](#-habilidades-desenvolvidas)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como rodar o projeto](#-como-rodar-o-projeto)
+- [Autor](#-autor)
 
-### Requisitos Bônus
-- Tabela Informativa: Inclui uma tabela com informações adicionais.
-- Box Model: Estilos aplicados usando o Box Model.
-- Tipografia Personalizada: Ajustes na tipografia para melhor legibilidade.
-- Posicionamento de Elementos Lado a Lado: Elementos posicionados lado a lado para uma disposição mais interessante.
+## 💡 Sobre
 
-## Instruções de Instalação e Uso
+O projeto **Lessons Learned** tem como objetivo consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript por meio da criação de uma página web estática. A página apresenta informações sobre as lições aprendidas durante o curso, utilizando uma estrutura semântica adequada e estilização responsiva para diferentes dispositivos.
 
-1. **Faça um Fork do Repositório**:
-   - No GitHub, acesse o [repositório original do projeto](https://github.com/JyojiTenguam/project-lessons-learned) e clique no botão **"Fork"** no canto superior direito para criar uma cópia do projeto na sua conta.
+## 🛠️ Habilidades desenvolvidas
 
-2. **Clone o Repositório Forkado**:
-   - Após fazer o fork, clone o repositório para o seu computador:
+- Utilização de tags semânticas do HTML5
+- Estilização de elementos com CSS
+- Organização de conteúdo em seções lógicas
+- Responsividade para diferentes tamanhos de tela
+- Estruturação de páginas web estáticas
 
-    ```bash
-    git clone git@github.com:seu-usuario/project-lessons-learned.git
-    ```
+## 🧪 Tecnologias utilizadas
 
-3. **Navegue até o Diretório do Projeto**:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-    ```bash
-    cd project-lessons-learned
-    ```
+## 🚀 Como rodar o projeto
 
-4. **Instale as Dependências**:
+1. Clone o repositório:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   git clone https://github.com/JyojiTenguam/project-lessons-learned.git
+   ```
 
-5. Abra o arquivo index.html em seu navegador para visualizar o projeto.
+2. Acesse a pasta do projeto
 
-Lembre-se de substituir `"seu-usuario"` pelo seu nome de usuário no GitHub para que o link do fork seja correto.
+   ```bash
+   cd project-lessons-learned
+   ```
+
+3. Instale as dependências
+
+   ```bash
+   npm install
+   ```
+
+## 👤 Autor
+
+Este projeto foi desenvolvido como parte do curso de Desenvolvimento Web da Trybe, por Jyoji Tenguam.
